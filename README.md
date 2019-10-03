@@ -11,8 +11,6 @@
 
 ## :information_source: How To Use
 
-### Install Front
-
 ```bash
 # Clone this repository
 $ git clone https://github.com/Arieviloo/rocektshoes-web
