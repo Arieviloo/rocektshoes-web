@@ -11,14 +11,16 @@
 
 ## :information_source: How To Use
 
-# Go into the front path
+### Install Front
 
-\$ cd meetapp-gostack/front
+```bash
+
+# Go into the front path
+$ cd meetapp-gostack/front
 
 # Install dependencies
-
-\$ yarn install
+$ yarn install
 
 # Run the Front
-
-\$ yarn start
+$ yarn start
+```
