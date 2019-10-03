@@ -18,7 +18,7 @@
 $ git clone https://github.com/Arieviloo/rocektshoes-web
 
 # Go into the front path
-$ cd meetapp-gostack/front
+$ cd rocektshoes-web
 
 # Install dependencies
 $ yarn install
