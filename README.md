@@ -14,6 +14,8 @@
 ### Install Front
 
 ```bash
+# Clone this repository
+$ git clone https://github.com/Arieviloo/rocektshoes-web
 
 # Go into the front path
 $ cd meetapp-gostack/front
