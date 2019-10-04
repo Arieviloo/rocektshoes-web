@@ -24,5 +24,8 @@ $ cd rocektshoes-web
 $ yarn install
 
 # Run the Front
-$ yarn start
+$ yarn start]
+
+# Rnn the json-server(API)
+$ json-server server.json -p 3333
 ```
