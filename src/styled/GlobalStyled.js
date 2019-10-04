@@ -9,7 +9,6 @@ export default createGlobalStyle`
     outline: 0;
     box-sizing: border-box;
   }
-
   body {
     background: #191920 url(${background}) no-repeat center top;
     -webkit-font-smoothing: antialiased;
@@ -17,7 +16,6 @@ export default createGlobalStyle`
 
   body, input, button {
     font: 14px Roboto, sans-serif;
-    color: #fff;
   }
 
   #root {
