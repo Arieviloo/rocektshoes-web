@@ -26,6 +26,6 @@ $ yarn install
 # Run the Front
 $ yarn start]
 
-# Run the json-server(API)
+# Run the API(json-server)
 $ json-server server.json -p 3333
 ```
