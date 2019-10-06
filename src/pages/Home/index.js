@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { connect } from 'react-redux';
 import { MdAddShoppingCart } from 'react-icons/md';
 import { ProductList } from './style';
 import api from '../../services/api';
@@ -18,6 +19,15 @@ class Home extends Component {
     this.setState({ products: data });
   }
 
+  handleAddProduct = product => {
+    const { dispatch } = this.props;
+
+    dispatch({
+      type: 'ADD_TO_CART',
+      product,
+    });
+  };
+
   render() {
     const { products } = this.state;
 
@@ -29,7 +39,10 @@ class Home extends Component {
             <strong>{product.title}</strong>
             <span>{product.priceFormated}</span>
 
-            <button type="button">
+            <button
+              type="button"
+              onClick={() => this.handleAddProduct(product)}
+            >
               <div>
                 <MdAddShoppingCart size="16" color="#fff" />
               </div>
@@ -42,4 +55,4 @@ class Home extends Component {
   }
 }
 
-export default Home;
+export default connect()(Home);
