@@ -7,9 +7,9 @@
   A challenge for [RocketSeat GoStack Bootcamp](https://rocketseat.com.br/bootcamp) Certificate
 </h4>
 
-![image](https://user-images.githubusercontent.com/21297341/66245652-ac0dde00-e6e5-11e9-8416-36322364c25f.png)
+![image](https://user-images.githubusercontent.com/21297341/66320357-147eda00-e8f5-11e9-9cfe-8fb50314a17c.png)
 
-![image](https://user-images.githubusercontent.com/21297341/66180328-fc802f80-e642-11e9-9dc5-ae93b8548ae7.png)
+![image](https://user-images.githubusercontent.com/21297341/66320452-3b3d1080-e8f5-11e9-9be0-e59157786df2.png)
 
 ## :information_source: How To Use
 
