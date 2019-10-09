@@ -18,13 +18,13 @@
 - [Redux](https://redux.js.org/)
 - [Redux-Saga](https://redux-saga.js.org/)
 - [styled-components](https://www.styled-components.com/)
+- [react-router-dom](https://www.npmjs.com/package/react-router-dom)
 - [Axios](https://github.com/axios/axios)
 - [History](https://www.npmjs.com/package/history)
 - [Immer](https://github.com/immerjs/immer)
 - [Polished](https://polished.js.org/)
 - [React-Toastify](https://fkhadra.github.io/react-toastify/)
 - [React-Icons](http://react-icons.github.io/react-icons/)
-- [Unform](https://github.com/Rocketseat/unform)
 - [Reactotron](https://infinite.red/reactotron)
 - [VS Code][vc] with [EditorConfig][vceditconfig] and [ESLint][vceslint]
 
