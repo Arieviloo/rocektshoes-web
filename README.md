@@ -17,7 +17,6 @@
 - [Create React App Configuration Override](https://github.com/sharegate/craco)
 - [Redux](https://redux.js.org/)
 - [Redux-Saga](https://redux-saga.js.org/)
-- [React Router v4](https://github.com/ReactTraining/react-router)
 - [styled-components](https://www.styled-components.com/)
 - [Axios](https://github.com/axios/axios)
 - [History](https://www.npmjs.com/package/history)
